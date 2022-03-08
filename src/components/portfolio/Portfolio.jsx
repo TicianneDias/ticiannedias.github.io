@@ -29,8 +29,8 @@ const data = [
     image: IMG5,
     title: 'Coffee & Love Gallery',
     subtitle: 'Bootstrap',
-    github: 'https://github.com/TicianneDias',
-    site: 'https://github.com/TicianneDias/gallery-page-with-bootstrap'
+    github: 'https://github.com/TicianneDias/gallery-page-with-bootstrap',
+    site: 'https://sad-borg-a5868c.netlify.app'
   },
   {
     id: 4,
