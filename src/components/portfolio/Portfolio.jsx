@@ -19,10 +19,10 @@ const data = [
   {
     id: 2,
     image: IMG2,
-    title: 'Landing Page',
+    title: 'Landing Page (em processo)',
     subtitle: 'HTML, CSS, JavaScript',
     github: 'https://github.com/TicianneDias',
-    site: ''
+    site: 'https://github.com/TicianneDias'
   },
   {
     id: 3,
@@ -37,8 +37,8 @@ const data = [
     image: IMG4,
     title: 'Landing Page Model',
     subtitle: 'HTML, CSS, JavaScript',
-    github: 'https://github.com/TicianneDias',
-    site: 'https://github.com/TicianneDias/landing-page-html-css-js'
+    github: 'https://github.com/TicianneDias/landing-page-html-css-js',
+    site: 'https://agitated-albattani-ed530e.netlify.app/'
   },
   {
     id: 5,

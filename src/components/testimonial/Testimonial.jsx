@@ -11,12 +11,12 @@ const data = [
   {
     avatar: CLIENT1,
     name: 'Suzana Santos',
-    review: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maiores, aspernatur nulla beatae cupiditate ipsam quibusdam asperiores esse delectus, tempora a recusandae dolorem mollitia doloremque, est facilis itaque? Odit, harum. Nobis!'
+    review: 'Com muita paciência e profissionalismo, ela cuidou de cada detalhe, para que tudo ficasse a minha cara. Amei muito e super indico, de olhos fechados. Obrigada, Tici! ✨ Você é demais! ❤️'
   },
   {
     avatar: CLIENT2,
     name: 'Mayara Freitas',
-    review: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maiores, aspernatur nulla beatae cupiditate ipsam quibusdam asperiores esse delectus, tempora a recusandae dolorem mollitia doloremque, est facilis itaque? Odit, harum. Nobis!'
+    review: 'Que trabalho incrível, a Tici consegue entender e personalizar perfeitamente o site do jeitinho que a gente imagina. Além de ser uma profissional super paciente e detalhista. Amei o meu site e super recomendo o trabalho dessa pessoa maravilhosa.'
   },
 ]
 

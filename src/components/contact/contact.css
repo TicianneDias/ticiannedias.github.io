@@ -21,9 +21,10 @@
     background: var(--color-bg-variant);
 }
 
-.contact__option:hover {
-    background: var(--color-bg);
+.contact__option:hover, .contact__option:hover .contact__option-icon {
+    background: transparent;
     border-color: var(--color-primary-variant);
+    color: var(--color-primary);
 }
 
 .contact__option-icon {
@@ -39,9 +40,13 @@
     color: var(--color-light);
 }
 
+.contact__option:hover a{
+    color: var(--color-bg);
+}
 .contact__option a:hover {
     color: var(--color-primary);
 }
+
 
 form {
     display: flex;
