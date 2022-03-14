@@ -20,7 +20,7 @@ const data = [
     id: 2,
     image: IMG2,
     title: 'Landing Page (em processo)',
-    subtitle: 'HTML, CSS, JavaScript',
+    subtitle: 'React.js, Instagram API',
     github: 'https://github.com/TicianneDias',
     site: 'https://github.com/TicianneDias'
   },
