@@ -11,12 +11,7 @@ const Contact = () => {
   const sendEmail = (e) => {
     e.preventDefault();
 
-    emailjs.sendForm('service_6eun1kb', 'template_ilioevg', form.current, 'pQlq95VJlQTMZqpy9')
-      .then((result) => {
-          console.log(result.text);
-      }, (error) => {
-          console.log(error.text);
-      });
+   
 
       e.target.reset();
   };
