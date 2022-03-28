@@ -23,7 +23,7 @@ const about = () => {
             <article className='about__card'>
               <RiAwardLine className='about__icon'/>
               <h5>Experiência</h5>
-              <small>5+ meses</small>
+              <small>6+ meses</small>
             </article>
             <article className='about__card'>
               <HiOutlineUsers className='about__icon'/>
@@ -33,7 +33,7 @@ const about = () => {
             <article className='about__card'>
               <VscFolderLibrary className='about__icon'/>
               <h5>Projetos</h5>
-              <small>10+</small>
+              <small>15+</small>
             </article>
           </div>
           <p>Meu foco é me tornar uma grande desenvolvedora Front-End. Atualmente faço projetos, como: desenvolvimento de landing pages responsivas e desenvolvimento de aplicações web em React.</p>

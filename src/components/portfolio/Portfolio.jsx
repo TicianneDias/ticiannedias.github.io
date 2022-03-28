@@ -6,6 +6,7 @@ import IMG3 from '../../assets/port3.png'
 import IMG4 from '../../assets/port4.png'
 import IMG5 from '../../assets/port5.png'
 import IMG6 from '../../assets/port6.png'
+import IMG7 from '../../assets/port7.png'
 
 const data = [
   {
@@ -19,13 +20,21 @@ const data = [
   {
     id: 2,
     image: IMG2,
-    title: 'Landing Page (em processo)',
+    title: 'Landing Page',
     subtitle: 'React, Instagram API',
     github: 'https://github.com/TicianneDias',
     site: 'https://vetmayaragfreitas.com.br/'
   },
   {
     id: 3,
+    image: IMG7,
+    title: 'Criptomoedas',
+    subtitle: 'React, API',
+    github: 'https://github.com/TicianneDias/Cripto-Api',
+    site: 'https://adoring-mahavira-0c4214.netlify.app/'
+  },
+  {
+    id: 4,
     image: IMG5,
     title: 'Coffee & Love Gallery',
     subtitle: 'Bootstrap',
@@ -33,7 +42,7 @@ const data = [
     site: 'https://sad-borg-a5868c.netlify.app'
   },
   {
-    id: 4,
+    id: 5,
     image: IMG4,
     title: 'Landing Page Model',
     subtitle: 'HTML, CSS, JavaScript',
@@ -41,7 +50,7 @@ const data = [
     site: 'https://agitated-albattani-ed530e.netlify.app/'
   },
   {
-    id: 5,
+    id: 6,
     image: IMG3,
     title: 'Verificador CPF',
     subtitle: 'JavaScript',
@@ -49,7 +58,7 @@ const data = [
     site: 'https://github.com/TicianneDias/verificador-de-cpf-usando-classes'
   },
   {
-    id: 6,
+    id: 7,
     image: IMG6,
     title: 'PDF Merge',
     subtitle: 'Python',
